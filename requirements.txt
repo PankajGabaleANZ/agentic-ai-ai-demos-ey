@@ -4,7 +4,6 @@ chainlit
 python-dotenv
 fitz
 PyMuPDF
-smtplib
 autogen-agentchat
 autogen-ext[azure, openai]
 python-dotenv
